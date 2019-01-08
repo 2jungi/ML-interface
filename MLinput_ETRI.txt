@@ -1,0 +1,5 @@
+seqNum= 44444
+dataType= SideIR_Alchera
+dataPath= ./datasource/testing_image.jpg
+orderTime= 2018-12-11T20:12:39.600446
+limitTime= 2018-12-11T20:12:40.600446
